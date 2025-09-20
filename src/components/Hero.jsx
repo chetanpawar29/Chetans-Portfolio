@@ -1,5 +1,5 @@
 import React from 'react'
-import chetanImage from '../assets/images/chetan4.jpg';
+import chetanImg from "../assets/images/chetan4.jpg";
 
 const Hero = () => {
   return (
@@ -70,7 +70,7 @@ const Hero = () => {
             >
               {/* Replace this div with your actual image when available */}
               <img 
-                src={chetanImage} 
+                src={chetanImg} 
                 alt="Chetan Pawar" 
                 style={{
                     width: '100%',
