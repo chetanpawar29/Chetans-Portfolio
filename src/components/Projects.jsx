@@ -37,7 +37,7 @@ const Projects = () => {
     },
     {
         title: "Travel Planner",
-        tech: "Java, Spring Framework, JSP, Servlet, MySQL, HTML, CSS, JavaScript",
+        tech: "HTML, CSS, JavaScript, Bootstrap",
         description: "Created a travel planning app to manage itineraries, destinations, and bookings.",
         image: travelImg,
         githubUrl: "https://github.com/chetanpawar29/Travel_Planner",
